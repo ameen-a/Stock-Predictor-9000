@@ -1,5 +1,5 @@
 #
-#   Created by Ameen Ahmed (es18626) for 'Introduction to Programming' final project
+#                             Created by Ameen Ahmed
 #    *** author cannot guarantee effectiveness of this stock prediction program ***
 #              * however if a profit is made, the author requests 80% *
 #
