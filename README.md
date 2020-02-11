@@ -38,6 +38,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## TODO:
 
 - Refactor code using OOP (this project was completed before any OOP understanding)
-- Port to a more modern Python GUI frameworks (PyQT
+- Port to a more modern Python GUI framework, such as PyQT
 - Allow the user to apply a selection of contemplorary ML algorithms to existing data and compare their performance
 
