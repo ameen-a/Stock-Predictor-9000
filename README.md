@@ -1,7 +1,7 @@
 # Stock Predictor 9000
 Interactive machine learning-based stock prediction tool.
 
-The purpose of this tool was to be a learning experience of some technologies I was eager explore further - namely machine learning and UI design - as well as somewhat of a homage to my younger self who was, at the time, interested in a career in finance. 
+The tool's purpose was twofold: a learning experience of some technologies I was eager explore further - namely machine learning and UI design, as well as somewhat of an homage to my younger self who was, at the time, very interesting in stockbroking. 
 
 
 ### Prerequisites
