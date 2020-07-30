@@ -40,4 +40,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Refactor code using OOP
 - Port to a more modern Python GUI framework, such as PyQT
 - Allow the user to apply a selection of contemplorary ML algorithms to existing data and compare their performance
+- Add a 'tips' section detailing overfitting and how to avoid it.
 
