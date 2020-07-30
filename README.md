@@ -28,7 +28,7 @@ The tool's purpose was twofold: a learning experience of some technologies I was
 
 ## Authors
 
-* **Ameen Ahmed** - [TheIdesofMay](https://github.com/TheIdesofMay)
+* **Ameen Ahmed** - [ameen-a](https://github.com/ameen-a)
 
 
 ## License
