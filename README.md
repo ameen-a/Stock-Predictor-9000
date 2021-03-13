@@ -17,7 +17,7 @@ The tool's purpose was twofold: a learning experience of some technologies I was
 - Once stock has been selected, Quandl provides up-to-date stock information.
 ![stock info](images/USAGE2.png)
 
-- After an quick explanation of the SVR algorithm, the user is asked to choose which kernel they'd like. 
+- After an quick explanation of the Support Vector Machine (SVM) algorithm, the user is asked to choose which kernel they'd like. 
 ![kernel](images/USAGE3.png)
 
 - The result. User is also allowed to experiment with the price prediction on a specific day. 
