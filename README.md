@@ -1,7 +1,8 @@
 # Stock Predictor 9000
+### Originally published: July 2019
 Interactive machine learning-based stock prediction tool.
 
-The tool's purpose was twofold: a learning experience of some technologies I was eager explore further - namely machine learning and UI design, as well as somewhat of an homage to my younger self who was, at the time, very interesting in stockbroking. 
+The tool's purpose was twofold: a learning experience of some technologies I was eager explore further - namely machine learning and UI design - as well as somewhat of an homage to my younger self who was, at the time, very interesting in stockbroking. 
 
 
 ### Prerequisites
@@ -36,7 +37,7 @@ The tool's purpose was twofold: a learning experience of some technologies I was
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## TODO:
-
+- Give the user feedback on the fit of their model (detect over/underfitting)
 - Refactor code using OOP
 - Port to a more modern Python GUI framework, such as PyQT
 - Allow the user to apply a selection of contemplorary ML algorithms to existing data and compare their performance
