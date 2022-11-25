@@ -1,5 +1,5 @@
 # Stock Predictor 9000
-### Originally published: July 2019
+### Originally published: July 2018
 Interactive machine learning-based stock prediction tool.
 
 The tool's purpose was twofold: a learning experience of some technologies I was eager explore further - namely machine learning and UI design - as well as somewhat of an homage to my younger self who was, at the time, very interesting in stockbroking. 
