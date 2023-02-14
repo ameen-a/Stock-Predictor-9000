@@ -4,7 +4,7 @@ Interactive machine learning-based stock prediction tool.
 
 The tool's purpose was twofold: a learning experience of some technologies I was eager explore further - namely machine learning and UI design - as well as somewhat of an homage to my younger self who was, at the time, very interesting in stockbroking. 
 
-Disclaimer: This tool simply allows you to 'drag-and-drop' common ML algorithms on to your favourite stocks: it does *not* contain statistically-sound machine learning techniques, and the results it produces are subject to over/underfitting.
+Disclaimer: This tool simply allows you to 'drag-and-drop' common ML algorithms on top of your favourite stocks: it does *not* attempt to use statistically-sound ML techniques, and the results it produces are subject to over/underfitting.
 
 
 ### Prerequisites
